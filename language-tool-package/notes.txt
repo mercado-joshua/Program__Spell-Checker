@@ -1,0 +1,4 @@
+1. pip install language-tool-python
+
+* link source
+https://medium.com/swlh/languagetool-grammar-and-spell-checker-in-python-578ac4e94642
